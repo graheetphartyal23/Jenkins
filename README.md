@@ -179,11 +179,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
     - Click "Build Now"
 
 <div align="center">
- <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot23.png" alt="Download executable 1">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot24.png" alt="Download executable 2">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot25.png" alt="Download executable 3">
+ 
 </div>
 
 ### Step 2: Testing the Executable
@@ -196,7 +192,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Click on `add2vals` to download it to your local machine
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot26.png" alt="Download executable 4">
+  
 </div>
 
    Note: The executable downloaded from Jenkins will be a Linux version since Jenkins runs in a Linux container. 
@@ -235,7 +231,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot27.png" alt="Run executable 2">
+
 </div>
 
 ## 4. What Does PyInstaller Do?
