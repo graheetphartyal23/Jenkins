@@ -1,7 +1,7 @@
 # Python Application with Jenkins CI/CD Pipeline
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Jenkins.png" alt="Jenkins Logo">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/Jenkins.png" alt="Jenkins Logo">
 </div>
 
 ## 1. Project Overview
@@ -51,7 +51,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
  ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot1.png" alt="Pull and start Jenkins">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss2.png" alt="Pull and start Jenkins">
 </div>
 
 2. Get initial admin password:
@@ -60,7 +60,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
  ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot2.png" alt="Get initial admin password">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss3.png" alt="Get initial admin password">
 </div>
 
 3. Access Jenkins:
@@ -68,7 +68,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Enter the initial admin password from step 2
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot3.png" alt="Access Jenkins">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss4.png" alt="Access Jenkins">
 </div>
 
 4. Install plugins:
@@ -76,9 +76,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Wait for installation to complete
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot4.png" alt="Install plugins 1">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss5.png" alt="Install plugins 1">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot5.png" alt="Install plugins 2">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss6.png" alt="Install plugins 2">
 </div>
 
 5. Create first admin user:
@@ -98,9 +98,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Click "Save and Finish"
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot8.png" alt="Configure Jenkins 1">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss9.png" alt="Configure Jenkins 1">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot9.png" alt="Configure Jenkins 2">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss10.png" alt="Configure Jenkins 2">
 </div>
 
 7. Create Pipeline Project:
@@ -117,9 +117,9 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
      - Click "Save"
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot10.png" alt="Create pipeline 1">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss11.png" alt="Create pipeline 1">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot11.png" alt="Create pipeline 2">
+  <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss12.png" alt="Create pipeline 2">
 
   <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot12.png" alt="Create pipeline 2">
 </div>
