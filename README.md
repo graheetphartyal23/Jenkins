@@ -162,16 +162,14 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
      ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot20.png" alt="Restart Jenkins 2">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot21.png" alt="Restart Jenkins 2">
+ 
 </div>
     
 10. Sign in to Jenkins:
     - Use the credentials you created in step 5
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot22.png" alt="Sign in to Jenkins">
+  
 </div>
 
 11. Run the Pipeline:
