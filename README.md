@@ -88,9 +88,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
    - Click "Save and Continue"
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot6.png" alt="Create admin user">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot7.png" alt="Create admin user">
+ 
 </div>
 
 6. Configure Jenkins instance:
@@ -112,7 +110,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
      - Scroll to "Pipeline" section
      - Select "Pipeline script from SCM"
      - Select "Git" as SCM
-     - Enter repository URL: `https://github.com/Anugrah2334/Jenkins-Orchestration.git`
+     - Enter repository URL: `https://github.com/graheetphartyal23/Jenkins.git`
      - Enter branch specifier: `*/main`
      - Click "Save"
 
@@ -121,7 +119,6 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
 
   <img src="https://github.com/graheetphartyal23/Jenkins/blob/main/image/ss12.png" alt="Create pipeline 2">
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot12.png" alt="Create pipeline 2">
 </div>
 
 8. Install and Configure Docker in Jenkins Container:
