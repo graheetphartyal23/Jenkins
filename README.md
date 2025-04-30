@@ -134,13 +134,7 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
  ```
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot13.png" alt="Install Docker 1">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot14.png" alt="Install Docker 2">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot15.png" alt="Install Docker 3">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot16.png" alt="Install Docker 4">
+  
 </div>
 
 9. Install Docker Plugins:
@@ -152,11 +146,8 @@ This project demonstrates a simple Python application with a complete CI/CD pipe
       - docker-build-step
 
 <div align="center">
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot17.png" alt="Install Docker plugins 1">
+  
 
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot18.png" alt="Install Docker plugins 2">
-
-  <img src="https://github.com/Anugrah2334/Jenkins-Orchestration/blob/main/images/Screenshot19.png" alt="Install Docker plugins 3">
 
 </div>
 
